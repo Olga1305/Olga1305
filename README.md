@@ -68,7 +68,7 @@ I am a people‐oriented, outgoing, and hard‐working professional, passionate 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Olga1305/Olga1305">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olga1305&hide=shell,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olga1305&hide=shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Olga1305/Olga1305">
   <img src="https://github-readme-stats.vercel.app/api?username=olga1305&show_icons=true&hide=stars,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Olga' GitHub Stats" />
