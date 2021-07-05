@@ -65,6 +65,7 @@ I am a people‐oriented, outgoing, and hard‐working professional, passionate 
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-43853d?style=flat-square&logo=Android&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-007ACC?style=flat-square&logo=android-studio&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-764ABC?style=flat-square&logo=intellij-idea&logoColor=white" />
 </p>
 
 
