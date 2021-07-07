@@ -2,7 +2,7 @@
 
 My name is Olga Dokukova and I am a Full Stack Developer. I'm from Minsk (Belarus), living in Barcelona and currently working at [Neuroelectrics](https://www.neuroelectrics.com/). 
 
-## 📫 Where to find me
+## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/olgadokukova/)
 - [Telegram](https://t.me/OlgaD_bcn)
