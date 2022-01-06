@@ -6,7 +6,6 @@ My name is Olga Dokukova and I am a Full Stack Developer. I'm from Minsk (Belaru
 
 - [LinkedIn](https://www.linkedin.com/in/olgadokukova/)
 - [Telegram](https://t.me/OlgaD_bcn)
-- [Website](http://dokukova.com)
 - Email: dokukova@gmail.com
 
 ## 👩🏼‍💻 More about me
