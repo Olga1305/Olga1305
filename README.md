@@ -1,4 +1,4 @@
-# Hi there, nice to meet you! <img src="https://raw.githubusercontent.com/Olga1305/Olga1305/master/wave.gif" width="30px">
+# Hi there, nice to meet you!
 
 My name is Olga Dokukova and I am a Full Stack Developer. I'm from Minsk (Belarus), living in Barcelona and currently working at [Neuroelectrics](https://www.neuroelectrics.com/). 
 
