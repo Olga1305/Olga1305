@@ -1,6 +1,6 @@
 # Hi there, nice to meet you!
 
-My name is Olga Dokukova and I am a Full Stack Developer. I'm from Minsk (Belarus), living in Barcelona and currently working at [Neuroelectrics](https://www.neuroelectrics.com/). 
+My name is Olga Dokukova and I am a Full Stack Developer. I'm from Minsk (Belarus), living in Barcelona and currently working at [Immfly](https://www.immfly.com/). 
 
 ## 📫 How to reach me
 
