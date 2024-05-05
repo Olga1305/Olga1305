@@ -14,8 +14,6 @@ After several years of working on projects from the Digital Marketing & Project 
 
 I am a people‐oriented, outgoing, and hard‐working professional, passionate about Agile Methodology, MERN Stack, and digital projects.
 
-🌱 I’m currently learning Kotlin & Android Development.
-
 ---
 
 ## 💻 Languages
