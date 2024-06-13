@@ -1,6 +1,6 @@
 # Hi there, nice to meet you!
 
-My name is Olga Dokukova and I am a Full Stack Developer. I'm from Minsk (Belarus), living in Barcelona and currently working at [Immfly](https://www.immfly.com/). 
+My name is Olga Dokukova and I am a Full Stack Developer. I'm from Minsk (Belarus), living in Barcelona and currently working at [Workfully](https://workfully.com/). 
 
 ## 📫 How to reach me
 
